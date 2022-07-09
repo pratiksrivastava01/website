@@ -9,9 +9,9 @@ const PreNavbar = () => {
         <div className="preNav">
              <div>
                  {/* <a  href="https://www.mi.com/in/">MC DHANBAD</a> <span>|</span> */}
-                 <a  >MC DHANBAD</a> <span>|</span>
+                 <a  >Mobile Center DHANBAD</a> <span>|</span>
                  {/* <a  href="https://in.event.mi.com/in/install-mi-store">GET MC STORE APP</a> <span>|</span> */}
-                 <a >GET MC STORE APP</a> <span>|</span>
+                 <a >GET Mobile Center STORE APP</a> <span>|</span>
                  {/* <a  href="https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1">ONLINE HELP</a> <span>|</span> */}
                  <a >ONLINE HELP</a> <span>|</span>
                  {/* <a  href="https://www.mi.com/in/service/authorized_stores/">RETAIL STORE ﹀</a> */}

@@ -23,28 +23,28 @@ const Navbar = () => {
       </div>
 
       <a className="navlinks" href="/miphones">
-        Mi Phones
+      Redmi Phones
       </a>
       <a className="navlinks" href="/#redmiphones">
-        Redmi Phones
+        Vivo  Phones
       </a>
       <a className="navlinks" href="/#tv">
-        TV
+        Apple Phones
       </a>
       <a className="navlinks" href="/#laptops">
-        Laptops
+        Oppo Phones
       </a>
       <a className="navlinks" href="/#lifestyle">
-        Fitness & Lifestyle
+      TV
       </a>
       <a className="navlinks" href="/#home">
-        Home
+      Laptops
       </a>
       <a className="navlinks" href="/#audio">
-        Radio
+      Fitness & Lifestyle
       </a>
       <a className="navlinks" href="/#accessories">
-        Accessories
+      Home
       </a>
 
       <div className="searchbox">
